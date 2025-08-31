@@ -6,7 +6,7 @@ Our goal: to detect and forecast **halo CMEs** using **particle signatures in th
 
 ---
 
-## 🌌 Scientific Background
+## Scientific Background
 
 - **Coronal Mass Ejections (CMEs):**  
   Huge expulsions of plasma and magnetic fields from the solar corona, carrying billions of tons of material into the heliosphere.  
@@ -30,7 +30,7 @@ Our goal: to detect and forecast **halo CMEs** using **particle signatures in th
 
 ---
 
-## 🚀 Project Objectives
+## Project Objectives
 
 1. **Labeling CMEs:** Use **CACTus CME catalog** (LASCO/SOHO) to extract halo event timestamps.  
 2. **Data Extraction:** Ingest **SWIS Level-2 CDF data** (flux, density, temperature, velocity) from Aditya-L1.  
@@ -44,7 +44,7 @@ Our goal: to detect and forecast **halo CMEs** using **particle signatures in th
 
 ---
 
-## ⚡ Novelty
+## Novelty
 
 - First attempt to **fuse coronagraph-derived halo CME events (CACTus)** with **in-situ particle signatures (SWIS, Aditya-L1)**.  
 - Moves beyond thresholds → integrates **physics + ML** for robust early-warning.  
@@ -52,7 +52,7 @@ Our goal: to detect and forecast **halo CMEs** using **particle signatures in th
 
 ---
 
-## 📊 Dataset Sources
+## Dataset Sources
 
 1. **CACTus CME Catalog (LASCO/SOHO):**  
    Automated recognition of CMEs, listing onset time, angular width, speed, and halo flag.  
@@ -68,7 +68,7 @@ Our goal: to detect and forecast **halo CMEs** using **particle signatures in th
 
 ---
 
-## 📚 References
+## References
 
 - Robbrecht, E., & Berghmans, D. (2004). *Automated recognition of CMEs (CACTus).* A&A 425, 1097–1106.  
 - Gopalswamy, N. (2006). *Properties of Interplanetary CMEs.* Space Sci Rev 124, 145–168.  
@@ -78,7 +78,7 @@ Our goal: to detect and forecast **halo CMEs** using **particle signatures in th
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Languages:** Python, C (optional)  
 - **Libraries:** Pandas, NumPy, SciPy, scikit-learn, Matplotlib, Plotly, cdflib  
