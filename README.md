@@ -1,3 +1,7 @@
+```Contributed in the project whilst in the Hackathon.```
+---
+
+
 # HELIOS — Halo Event Locator & Identification of Solar-CMEs
 
 **HELIOS** (Halo Event Locator & Identification of Solar-CMEs) is a research-driven project combining **CACTus CME catalogs** with **in-situ particle data** from the **Solar Wind Ion Spectrometer (SWIS)**, part of the **ASPEX payload onboard Aditya-L1**.  
